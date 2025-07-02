@@ -40,3 +40,25 @@ cd portfolio
 ---
 
 Feito com orgulho por [Dilson Pereira](https://github.com/dilson123-tech) 💻🚀
+
+# 💼 Portfólio Técnico — Dilson Pereira
+
+**📍 Localização:** Itapoá - SC, Brasil  
+**📧 E-mail:** dilsonpereira231@gmail.com  
+**📱 WhatsApp:** (47) 99687-6878  
+**🐙 GitHub:** [https://github.com/dilson123-tech](https://github.com/dilson123-tech)  
+**💼 LinkedIn:** [https://www.linkedin.com/in/dilsonpereira231](https://www.linkedin.com/in/dilsonpereira231)  
+**📅 Atualizado em:** 02/07/2025
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 HailuAI – Assistente de Atendimento com IA
+Sistema completo de atendimento inteligente com backend em FastAPI (Railway) e frontend integrado (GitHub Pages).  
+Inclui landing page com vídeo institucional de apresentação.  
+🔗 [Ver Projeto Online](https://dilson123-tech.github.io/hailuai-frontend)
+
+---
+
+_Desenvolvido com dedicação por Dilson Pereira_ 🚀
