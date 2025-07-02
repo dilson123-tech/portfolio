@@ -59,6 +59,8 @@ Sistema completo de atendimento inteligente com backend em FastAPI (Railway) e f
 Inclui landing page com vídeo institucional de apresentação.  
 🔗 [Ver Projeto Online](https://dilson123-tech.github.io/hailuai-frontend)
 
----
+### 🔸 DilsBot Highlight – Landing Page com Vídeo Institucional
+Página institucional interativa com vídeo legendado, ideal para apresentação de soluções com IA e negócios.  
+🔗 [Ver Projeto Online](https://dilson123-tech.github.io/dilsbot_highlight/)
 
-_Desenvolvido com dedicação por Dilson Pereira_ 🚀
+
